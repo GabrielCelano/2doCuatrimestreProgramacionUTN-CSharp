@@ -1,0 +1,11 @@
+C:\Users\WSC30\source\repos\Memotest\Memotest\bin\Debug\Memotest.exe.config
+C:\Users\WSC30\source\repos\Memotest\Memotest\bin\Debug\Memotest.exe
+C:\Users\WSC30\source\repos\Memotest\Memotest\bin\Debug\Memotest.pdb
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.Form1.resources
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.Properties.Resources.resources
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.exe
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.pdb
+C:\Users\WSC30\source\repos\Memotest\Memotest\obj\Debug\Memotest.Form2.resources

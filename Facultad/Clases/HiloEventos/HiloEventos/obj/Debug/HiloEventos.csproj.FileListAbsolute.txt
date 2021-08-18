@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\bin\Debug\HiloEventos.exe.config
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\bin\Debug\HiloEventos.exe
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\bin\Debug\HiloEventos.pdb
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\obj\Debug\HiloEventos.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\obj\Debug\HiloEventos.Form1.resources
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\obj\Debug\HiloEventos.Properties.Resources.resources
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\obj\Debug\HiloEventos.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\obj\Debug\HiloEventos.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\obj\Debug\HiloEventos.exe
+C:\Users\WSC30\source\repos\HiloEventos\HiloEventos\obj\Debug\HiloEventos.pdb

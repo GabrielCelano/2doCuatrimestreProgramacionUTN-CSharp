@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Abstract\bin\Debug\Abstract.dll
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Abstract\obj\Debug\Abstract.dll
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Abstract\obj\Debug\Abstract.pdb

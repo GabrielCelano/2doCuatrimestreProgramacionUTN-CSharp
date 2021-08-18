@@ -1,0 +1,11 @@
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\bin\Debug\SalaDeJuegos.exe.config
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\bin\Debug\SalaDeJuegos.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\bin\Debug\SalaDeJuegos.pdb
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.FrmPrincipal.resources
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.Properties.Resources.resources
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.pdb
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.FrmAdivinaNumero.resources

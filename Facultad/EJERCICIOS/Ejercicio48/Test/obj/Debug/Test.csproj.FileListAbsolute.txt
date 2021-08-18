@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\Ejercicio48\Test\bin\Debug\Test.exe.config
+C:\Users\WSC30\source\repos\Ejercicio48\Test\bin\Debug\Test.exe
+C:\Users\WSC30\source\repos\Ejercicio48\Test\bin\Debug\Test.pdb
+C:\Users\WSC30\source\repos\Ejercicio48\Test\bin\Debug\Ejercicio48.dll
+C:\Users\WSC30\source\repos\Ejercicio48\Test\bin\Debug\Ejercicio48.pdb
+C:\Users\WSC30\source\repos\Ejercicio48\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Ejercicio48\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Ejercicio48\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\WSC30\source\repos\Ejercicio48\Test\obj\Debug\Test.exe
+C:\Users\WSC30\source\repos\Ejercicio48\Test\obj\Debug\Test.pdb

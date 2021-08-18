@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Title = "Ejercicio 6";
+            /*Escribir un programa que determine si un año es bisiesto.
+              Un año es bisiesto si es múltiplo de 4. Los años múltiplos de 100 no son bisiestos, salvo si ellos
+              también son múltiplos de 400. Por ejemplo: el año 2000 es bisiesto pero 1900 no.
+              Pedirle al usuario un año de inicio y otro de fin y mostrar todos los años bisiestos en ese rango.
+              Nota: Utilizar estructuras repetitivas, selectivas y la función módulo (%).*/
+
+            Console.WriteLine("Ingresar año de inicio: ");
+            int añoInicio = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingresar año final: ");
+            int añoFinal = int.Parse(Console.ReadLine());
+
+            for (int i = añoInicio; i < añoFinal; i++)
+            {
+                if (i % 4 == 0)
+                {
+                    if (i % 100 == 0)
+                    {
+                        if (i % 400 == 0)
+                        {
+                            Console.WriteLine(i + " Es un año bisiesto");
+                        }
+                        else Console.WriteLine(i + " No es un año bisiesto");
+                    }
+                    else Console.WriteLine(i + " Es un año bisiesto");
+                }
+
+                else Console.WriteLine(i + " No es un año bisiesto");
+            }
+            
+        }
+    }
+}

@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\Llamador\Llamador\bin\Debug\Llamador.exe.config
+C:\Users\WSC30\source\repos\Llamador\Llamador\bin\Debug\Llamador.exe
+C:\Users\WSC30\source\repos\Llamador\Llamador\bin\Debug\Llamador.pdb
+C:\Users\WSC30\source\repos\Llamador\Llamador\obj\Debug\Llamador.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\Llamador\Llamador\obj\Debug\Llamador.Form1.resources
+C:\Users\WSC30\source\repos\Llamador\Llamador\obj\Debug\Llamador.Properties.Resources.resources
+C:\Users\WSC30\source\repos\Llamador\Llamador\obj\Debug\Llamador.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\Llamador\Llamador\obj\Debug\Llamador.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Llamador\Llamador\obj\Debug\Llamador.exe
+C:\Users\WSC30\source\repos\Llamador\Llamador\obj\Debug\Llamador.pdb

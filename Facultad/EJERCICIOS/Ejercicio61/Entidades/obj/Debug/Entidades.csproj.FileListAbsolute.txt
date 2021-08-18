@@ -1,0 +1,9 @@
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\Ejercicio61\Entidades\obj\Debug\Entidades.pdb

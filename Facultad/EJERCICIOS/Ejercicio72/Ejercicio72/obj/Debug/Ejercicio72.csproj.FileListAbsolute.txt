@@ -1,0 +1,7 @@
+C:\Users\WSC30\source\repos\Ejercicio72\Ejercicio72\bin\Debug\Ejercicio72.exe.config
+C:\Users\WSC30\source\repos\Ejercicio72\Ejercicio72\bin\Debug\Ejercicio72.exe
+C:\Users\WSC30\source\repos\Ejercicio72\Ejercicio72\bin\Debug\Ejercicio72.pdb
+C:\Users\WSC30\source\repos\Ejercicio72\Ejercicio72\obj\Debug\Ejercicio72.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\Ejercicio72\Ejercicio72\obj\Debug\Ejercicio72.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Ejercicio72\Ejercicio72\obj\Debug\Ejercicio72.exe
+C:\Users\WSC30\source\repos\Ejercicio72\Ejercicio72\obj\Debug\Ejercicio72.pdb

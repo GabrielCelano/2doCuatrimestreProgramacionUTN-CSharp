@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\obj\Debug\Ejercicio36.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\obj\Debug\Ejercicio36.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\obj\Debug\Ejercicio30.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\obj\Debug\Ejercicio30.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\bin\Debug\Ejercicio30.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\bin\Debug\Ejercicio30.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\bin\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\bin\Debug\Entidades.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio36\Ejercicio30\obj\Debug\Ejercicio36.csproj.CopyComplete

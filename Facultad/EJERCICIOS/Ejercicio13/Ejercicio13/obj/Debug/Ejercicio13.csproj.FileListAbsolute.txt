@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.pdb

@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\Herencia\Clases\bin\Debug\Clases.exe.config
+C:\Users\WSC30\source\repos\Herencia\Clases\bin\Debug\Clases.exe
+C:\Users\WSC30\source\repos\Herencia\Clases\bin\Debug\Clases.pdb
+C:\Users\WSC30\source\repos\Herencia\Clases\bin\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\Herencia\Clases\bin\Debug\Entidades.pdb
+C:\Users\WSC30\source\repos\Herencia\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Herencia\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Herencia\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\WSC30\source\repos\Herencia\Clases\obj\Debug\Clases.exe
+C:\Users\WSC30\source\repos\Herencia\Clases\obj\Debug\Clases.pdb

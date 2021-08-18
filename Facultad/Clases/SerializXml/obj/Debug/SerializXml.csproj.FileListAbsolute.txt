@@ -1,0 +1,7 @@
+C:\Users\Nahuel\source\repos\Archivos\SerializXml\bin\Debug\SerializXml.exe.config
+C:\Users\Nahuel\source\repos\Archivos\SerializXml\bin\Debug\SerializXml.exe
+C:\Users\Nahuel\source\repos\Archivos\SerializXml\bin\Debug\SerializXml.pdb
+C:\Users\Nahuel\source\repos\Archivos\SerializXml\obj\Debug\SerializXml.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Archivos\SerializXml\obj\Debug\SerializXml.exe
+C:\Users\Nahuel\source\repos\Archivos\SerializXml\obj\Debug\SerializXml.pdb
+C:\Users\Nahuel\source\repos\Archivos\SerializXml\obj\Debug\SerializXml.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Nahuel\source\repos\Archivos\SerializarHerencia\bin\Debug\SerializarHerencia.exe.config
+C:\Users\Nahuel\source\repos\Archivos\SerializarHerencia\bin\Debug\SerializarHerencia.exe
+C:\Users\Nahuel\source\repos\Archivos\SerializarHerencia\bin\Debug\SerializarHerencia.pdb
+C:\Users\Nahuel\source\repos\Archivos\SerializarHerencia\obj\Debug\SerializarHerencia.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Archivos\SerializarHerencia\obj\Debug\SerializarHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Archivos\SerializarHerencia\obj\Debug\SerializarHerencia.exe
+C:\Users\Nahuel\source\repos\Archivos\SerializarHerencia\obj\Debug\SerializarHerencia.pdb

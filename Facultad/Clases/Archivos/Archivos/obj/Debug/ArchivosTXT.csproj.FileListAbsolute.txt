@@ -1,0 +1,7 @@
+C:\Users\WSC30\source\repos\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\WSC30\source\repos\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\WSC30\source\repos\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\WSC30\source\repos\Archivos\Archivos\obj\Debug\ArchivosTXT.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Archivos\Archivos\obj\Debug\ArchivosTXT.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\WSC30\source\repos\Archivos\Archivos\obj\Debug\Archivos.pdb

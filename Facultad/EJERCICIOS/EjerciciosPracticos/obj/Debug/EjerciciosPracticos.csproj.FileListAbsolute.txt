@@ -1,0 +1,7 @@
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\EjerciciosPracticos\bin\Debug\EjerciciosPracticos.exe.config
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\EjerciciosPracticos\bin\Debug\EjerciciosPracticos.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\EjerciciosPracticos\bin\Debug\EjerciciosPracticos.pdb
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.pdb
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\bin\Debug\Ejercicio69.exe.config
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\bin\Debug\Ejercicio69.exe
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\bin\Debug\Ejercicio69.pdb
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.FrmMostrar.resources
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.FrmPrincipal.resources
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.FrmTestDelegados.resources
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.Properties.Resources.resources
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.exe
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.pdb
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.FrmAltaAlumno.resources
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\bin\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\bin\Debug\Entidades.pdb
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.FrmDatosAlumnos.resources
+C:\Users\WSC30\source\repos\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.csproj.CopyComplete

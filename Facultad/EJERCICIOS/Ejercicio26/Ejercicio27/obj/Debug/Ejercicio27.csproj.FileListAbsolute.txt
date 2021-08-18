@@ -1,0 +1,7 @@
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio27\bin\Debug\Ejercicio27.exe.config
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio27\bin\Debug\Ejercicio27.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio27\bin\Debug\Ejercicio27.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio27\obj\Debug\Ejercicio27.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio27\obj\Debug\Ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio27\obj\Debug\Ejercicio27.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio27\obj\Debug\Ejercicio27.pdb

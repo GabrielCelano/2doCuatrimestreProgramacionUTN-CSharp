@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\Ejercicio73\Ejercicio73\bin\Debug\Ejercicio73.exe.config
+C:\Users\WSC30\source\repos\Ejercicio73\Ejercicio73\bin\Debug\Ejercicio73.exe
+C:\Users\WSC30\source\repos\Ejercicio73\Ejercicio73\bin\Debug\Ejercicio73.pdb
+C:\Users\WSC30\source\repos\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.exe
+C:\Users\WSC30\source\repos\Ejercicio73\Ejercicio73\obj\Debug\Ejercicio73.pdb

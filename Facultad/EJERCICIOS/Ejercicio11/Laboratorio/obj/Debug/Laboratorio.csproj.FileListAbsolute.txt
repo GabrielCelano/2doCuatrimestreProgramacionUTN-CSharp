@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe.config
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\bin\Debug\Laboratorio.pdb
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\bin\Debug\ClassLibrary1.dll
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\bin\Debug\ClassLibrary1.pdb
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.CopyComplete
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\obj\Debug\Laboratorio.exe
+C:\Users\WSC30\source\repos\Laboratorio\Laboratorio\Laboratorio\obj\Debug\Laboratorio.pdb

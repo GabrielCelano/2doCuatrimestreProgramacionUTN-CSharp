@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\bin\Debug\Ejercicio63.exe.config
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\bin\Debug\Ejercicio63.exe
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\bin\Debug\Ejercicio63.pdb
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\obj\Debug\Ejercicio63.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\obj\Debug\Ejercicio63.Form1.resources
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\obj\Debug\Ejercicio63.Properties.Resources.resources
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\obj\Debug\Ejercicio63.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\obj\Debug\Ejercicio63.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\obj\Debug\Ejercicio63.exe
+C:\Users\WSC30\source\repos\Ejercicio63\Ejercicio63\obj\Debug\Ejercicio63.pdb

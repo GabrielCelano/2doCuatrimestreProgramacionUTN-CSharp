@@ -1,0 +1,13 @@
+C:\Users\Nahuel\source\repos\Archivos\SerializacionBinaria\obj\Debug\SerializacionBinaria.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Archivos\SerializacionBinaria\bin\Debug\SerializacionBinaria.exe.config
+C:\Users\Nahuel\source\repos\Archivos\SerializacionBinaria\bin\Debug\SerializacionBinaria.exe
+C:\Users\Nahuel\source\repos\Archivos\SerializacionBinaria\bin\Debug\SerializacionBinaria.pdb
+C:\Users\Nahuel\source\repos\Archivos\SerializacionBinaria\obj\Debug\SerializacionBinaria.exe
+C:\Users\Nahuel\source\repos\Archivos\SerializacionBinaria\obj\Debug\SerializacionBinaria.pdb
+C:\Users\WSC30\Desktop\Archivos\SerializacionBinaria\bin\Debug\SerializacionBinaria.exe.config
+C:\Users\WSC30\Desktop\Archivos\SerializacionBinaria\bin\Debug\SerializacionBinaria.exe
+C:\Users\WSC30\Desktop\Archivos\SerializacionBinaria\bin\Debug\SerializacionBinaria.pdb
+C:\Users\WSC30\Desktop\Archivos\SerializacionBinaria\obj\Debug\SerializacionBinaria.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Archivos\SerializacionBinaria\obj\Debug\SerializacionBinaria.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Archivos\SerializacionBinaria\obj\Debug\SerializacionBinaria.exe
+C:\Users\WSC30\Desktop\Archivos\SerializacionBinaria\obj\Debug\SerializacionBinaria.pdb

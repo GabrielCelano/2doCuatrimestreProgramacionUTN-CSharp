@@ -1,0 +1,12 @@
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ejemploUtn\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.dll
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ejemploUtn\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ejemploUtn\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ejemploUtn\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ejemploUtn\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.dll
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ejemploUtn\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb
+C:\Users\WSC30\Desktop\Entidades-Libros\Entidades\bin\Debug\ConsoleApplicationLibro.dll
+C:\Users\WSC30\Desktop\Entidades-Libros\Entidades\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\WSC30\Desktop\Entidades-Libros\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\WSC30\Desktop\Entidades-Libros\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Entidades-Libros\Entidades\obj\Debug\ConsoleApplicationLibro.dll
+C:\Users\WSC30\Desktop\Entidades-Libros\Entidades\obj\Debug\ConsoleApplicationLibro.pdb

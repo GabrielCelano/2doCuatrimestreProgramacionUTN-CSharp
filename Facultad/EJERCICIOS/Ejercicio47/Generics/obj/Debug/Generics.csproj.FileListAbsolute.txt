@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\ClaseGenerics\Generics\bin\Debug\Generics.dll
+C:\Users\WSC30\source\repos\ClaseGenerics\Generics\bin\Debug\Generics.pdb
+C:\Users\WSC30\source\repos\ClaseGenerics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\ClaseGenerics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\ClaseGenerics\Generics\obj\Debug\Generics.dll
+C:\Users\WSC30\source\repos\ClaseGenerics\Generics\obj\Debug\Generics.pdb

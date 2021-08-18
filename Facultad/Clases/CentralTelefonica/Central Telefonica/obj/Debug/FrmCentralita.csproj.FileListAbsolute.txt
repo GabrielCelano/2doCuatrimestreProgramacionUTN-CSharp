@@ -1,0 +1,15 @@
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\bin\Debug\Central Telefonica.exe.config
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\bin\Debug\Central Telefonica.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\bin\Debug\Central Telefonica.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\bin\Debug\CentralitaHerencia.dll
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\bin\Debug\CentralitaHerencia.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\FrmCentralita.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\Central_Telefonica.FrmLlamador.resources
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\Central_Telefonica.FrmMenu.resources
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\Central_Telefonica.Properties.Resources.resources
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\FrmCentralita.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\FrmCentralita.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\FrmCentralita.csproj.CopyComplete
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\Central Telefonica.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\Central Telefonica.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\CentralTelefonica\Central Telefonica\obj\Debug\Central_Telefonica.FrmMostrar.resources

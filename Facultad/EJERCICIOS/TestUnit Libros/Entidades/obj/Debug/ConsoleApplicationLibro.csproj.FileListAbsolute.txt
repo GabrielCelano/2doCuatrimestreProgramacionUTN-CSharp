@@ -1,0 +1,33 @@
+C:\Users\htore\Downloads\Parcial\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.exe
+C:\Users\htore\Downloads\Parcial\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\htore\Downloads\Parcial\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.exe
+C:\Users\htore\Downloads\Parcial\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb
+C:\Users\htore\Downloads\ConsoleApplicationLibro\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.exe
+C:\Users\htore\Downloads\ConsoleApplicationLibro\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\htore\Downloads\ConsoleApplicationLibro\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.exe
+C:\Users\htore\Downloads\ConsoleApplicationLibro\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.exe
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.exe
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (SOLUCION)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.exe
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.exe
+C:\Users\HTORE\Downloads\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\Tatiana\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.exe
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\Tatiana\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\Tatiana\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\Tatiana\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\Tatiana\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.exe
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\Tatiana\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\P1\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.exe
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\P1\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\P1\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\P1\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\P1\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.exe
+C:\Users\Maria\Desktop\PROGRAMACION ORIENTADA A OBJETOS\P1\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.exe
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\bin\Debug\ConsoleApplicationLibro.pdb
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.exe
+C:\Users\Lucas\Desktop\ConsoleApplicationLibro (PARA EL ALUMNO)\ConsoleApplicationLibro\ConsoleApplicationLibro\obj\Debug\ConsoleApplicationLibro.pdb

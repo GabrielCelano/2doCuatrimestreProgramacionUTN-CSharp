@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\bin\Debug\Consola.exe.config
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\bin\Debug\Consola.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\bin\Debug\Consola.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\bin\Debug\Abstract.dll
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\bin\Debug\Abstract.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\obj\Debug\Consola.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\ClaseAbstract\Consola\obj\Debug\Consola.pdb

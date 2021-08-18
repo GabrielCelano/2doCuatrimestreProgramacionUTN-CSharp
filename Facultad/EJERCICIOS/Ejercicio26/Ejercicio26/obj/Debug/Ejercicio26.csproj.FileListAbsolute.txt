@@ -1,0 +1,14 @@
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe.config
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.pdb
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.exe
+C:\Users\WSC30\source\repos\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe.config
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\bin\Debug\Ejercicio26.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio26\Ejercicio26\obj\Debug\Ejercicio26.pdb

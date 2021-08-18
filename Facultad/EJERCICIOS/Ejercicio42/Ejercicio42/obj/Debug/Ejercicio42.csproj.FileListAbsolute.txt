@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.exe
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.pdb

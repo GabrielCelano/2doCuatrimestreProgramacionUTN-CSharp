@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.dll
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.pdb
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio51\Ejercicio51\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio51\Ejercicio51\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.dll
+C:\Users\WSC30\source\repos\Facultad\Programacion&Laboratorio\EjerciciosPracticos\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.pdb

@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\Ejercicio48\Ejercicio48\bin\Debug\Ejercicio48.dll
+C:\Users\WSC30\source\repos\Ejercicio48\Ejercicio48\bin\Debug\Ejercicio48.pdb
+C:\Users\WSC30\source\repos\Ejercicio48\Ejercicio48\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\Ejercicio48\Ejercicio48\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\Ejercicio48\Ejercicio48\obj\Debug\Ejercicio48.dll
+C:\Users\WSC30\source\repos\Ejercicio48\Ejercicio48\obj\Debug\Ejercicio48.pdb

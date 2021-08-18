@@ -1,0 +1,7 @@
+C:\Users\Nahuel\source\repos\Archivos\ArchivosTxt\bin\Debug\ArchivosTxt.exe.config
+C:\Users\Nahuel\source\repos\Archivos\ArchivosTxt\bin\Debug\ArchivosTxt.exe
+C:\Users\Nahuel\source\repos\Archivos\ArchivosTxt\bin\Debug\ArchivosTxt.pdb
+C:\Users\Nahuel\source\repos\Archivos\ArchivosTxt\obj\Debug\ArchivosTxt.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Archivos\ArchivosTxt\obj\Debug\ArchivosTxt.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Archivos\ArchivosTxt\obj\Debug\ArchivosTxt.exe
+C:\Users\Nahuel\source\repos\Archivos\ArchivosTxt\obj\Debug\ArchivosTxt.pdb

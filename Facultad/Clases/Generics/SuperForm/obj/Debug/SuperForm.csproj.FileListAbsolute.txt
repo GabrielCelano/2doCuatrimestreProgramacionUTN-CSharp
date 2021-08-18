@@ -1,0 +1,15 @@
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\bin\Debug\SuperForm.exe.config
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\bin\Debug\SuperForm.exe
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\bin\Debug\SuperForm.pdb
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\bin\Debug\Entidades.dll
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.FrmCliente.resources
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.FrmProducto.resources
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.FrmSuper.resources
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.Properties.Resources.resources
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.csproj.GenerateResource.cache
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.exe
+C:\Users\Nahuel\source\repos\Ejercicio 260521\SuperForm\obj\Debug\SuperForm.pdb

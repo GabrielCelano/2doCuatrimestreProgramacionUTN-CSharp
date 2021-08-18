@@ -1,0 +1,7 @@
+C:\Users\WSC30\source\repos\ConstructorEstatico\ConstructorEstatico\bin\Debug\ConstructorEstatico.exe.config
+C:\Users\WSC30\source\repos\ConstructorEstatico\ConstructorEstatico\bin\Debug\ConstructorEstatico.exe
+C:\Users\WSC30\source\repos\ConstructorEstatico\ConstructorEstatico\bin\Debug\ConstructorEstatico.pdb
+C:\Users\WSC30\source\repos\ConstructorEstatico\ConstructorEstatico\obj\Debug\ConstructorEstatico.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\ConstructorEstatico\ConstructorEstatico\obj\Debug\ConstructorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\ConstructorEstatico\ConstructorEstatico\obj\Debug\ConstructorEstatico.exe
+C:\Users\WSC30\source\repos\ConstructorEstatico\ConstructorEstatico\obj\Debug\ConstructorEstatico.pdb
