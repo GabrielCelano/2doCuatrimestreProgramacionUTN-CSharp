@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\20170518 - RPP Lab II\BibliotecaEntidades\bin\Debug\BibliotecaEntidades.dll
+C:\Users\WSC30\source\repos\20170518 - RPP Lab II\BibliotecaEntidades\bin\Debug\BibliotecaEntidades.pdb
+C:\Users\WSC30\source\repos\20170518 - RPP Lab II\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\20170518 - RPP Lab II\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\20170518 - RPP Lab II\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.dll
+C:\Users\WSC30\source\repos\20170518 - RPP Lab II\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.pdb

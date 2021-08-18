@@ -1,0 +1,45 @@
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe.config
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.pdb
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmCarrera.resources
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmContador.resources
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.Properties.Resources.resources
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.GenerateResource.cache
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CopyComplete
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.exe
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.pdb
+C:\Users\WSC30\Desktop\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\Entidades.dll.config
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe.config
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\bin\Debug\Entidades.dll.config
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmCarrera.resources
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmContador.resources
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.Properties.Resources.resources
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.GenerateResource.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CopyComplete
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.exe
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.pdb
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe.config
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.exe
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\bin\Debug\20210717-RSP - alumno.pdb
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\bin\Debug\Entidades.dll.config
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmCarrera.resources
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.FrmContador.resources
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\_20210717_RSP___alumno.Properties.Resources.resources
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.GenerateResource.cache
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.csproj.CopyComplete
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.exe
+C:\Users\WSC30\Desktop\xcvc\20210717-RSP - alumno\obj\Debug\20210717-RSP - alumno.pdb

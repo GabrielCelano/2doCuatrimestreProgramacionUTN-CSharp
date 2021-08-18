@@ -1,0 +1,7 @@
+C:\Users\WSC30\source\repos\PracticaSegundoParcialProg\PracticaSegundoParcialProg\obj\Debug\PracticaSegundoParcialProg.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\PracticaSegundoParcialProg\PracticaSegundoParcialProg\obj\Debug\PracticaSegundoParcialProg.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\PracticaSegundoParcialProg\PracticaSegundoParcialProg\bin\Debug\PracticaSegundoParcialProg.exe.config
+C:\Users\WSC30\source\repos\PracticaSegundoParcialProg\PracticaSegundoParcialProg\bin\Debug\PracticaSegundoParcialProg.exe
+C:\Users\WSC30\source\repos\PracticaSegundoParcialProg\PracticaSegundoParcialProg\bin\Debug\PracticaSegundoParcialProg.pdb
+C:\Users\WSC30\source\repos\PracticaSegundoParcialProg\PracticaSegundoParcialProg\obj\Debug\PracticaSegundoParcialProg.exe
+C:\Users\WSC30\source\repos\PracticaSegundoParcialProg\PracticaSegundoParcialProg\obj\Debug\PracticaSegundoParcialProg.pdb

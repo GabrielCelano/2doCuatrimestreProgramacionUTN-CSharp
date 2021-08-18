@@ -1,0 +1,10 @@
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\bin\Debug\General.dll.config
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\bin\Debug\General.dll
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\bin\Debug\General.pdb
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\obj\Debug\General.dll
+C:\Users\WSC30\Desktop\20210708-SP - alumno\General\obj\Debug\General.pdb

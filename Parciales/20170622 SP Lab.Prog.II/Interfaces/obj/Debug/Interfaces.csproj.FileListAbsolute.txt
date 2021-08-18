@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Interfaces\obj\Debug\Interfaces.pdb

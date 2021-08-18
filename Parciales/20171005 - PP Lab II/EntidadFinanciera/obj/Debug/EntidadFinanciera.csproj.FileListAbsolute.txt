@@ -1,0 +1,6 @@
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb

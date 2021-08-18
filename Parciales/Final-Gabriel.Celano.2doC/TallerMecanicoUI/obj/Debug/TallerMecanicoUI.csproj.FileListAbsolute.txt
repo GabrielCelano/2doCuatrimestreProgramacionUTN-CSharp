@@ -1,0 +1,39 @@
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.exe.config
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.exe
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.pdb
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.Properties.Resources.resources
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.UI.resources
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.GenerateResource.cache
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.CopyComplete
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.exe
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.exe.config
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.exe
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.Properties.Resources.resources
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.UI.resources
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.GenerateResource.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.CopyComplete
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.exe
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.pdb
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.exe.config
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.exe
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\TallerMecanicoUI.pdb
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.Properties.Resources.resources
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.UI.resources
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.GenerateResource.cache
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.csproj.CopyComplete
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.exe
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\TallerMecanicoUI\obj\Debug\TallerMecanicoUI.pdb

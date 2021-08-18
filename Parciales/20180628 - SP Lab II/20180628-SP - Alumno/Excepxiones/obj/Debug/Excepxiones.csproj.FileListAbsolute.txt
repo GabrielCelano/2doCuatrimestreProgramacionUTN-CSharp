@@ -1,0 +1,6 @@
+C:\Users\WSC30\Desktop\20180628 - SP Lab II\20180628-SP - Alumno\Excepxiones\bin\Debug\Excepxiones.dll
+C:\Users\WSC30\Desktop\20180628 - SP Lab II\20180628-SP - Alumno\Excepxiones\bin\Debug\Excepxiones.pdb
+C:\Users\WSC30\Desktop\20180628 - SP Lab II\20180628-SP - Alumno\Excepxiones\obj\Debug\Excepxiones.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\20180628 - SP Lab II\20180628-SP - Alumno\Excepxiones\obj\Debug\Excepxiones.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\20180628 - SP Lab II\20180628-SP - Alumno\Excepxiones\obj\Debug\Excepxiones.dll
+C:\Users\WSC30\Desktop\20180628 - SP Lab II\20180628-SP - Alumno\Excepxiones\obj\Debug\Excepxiones.pdb

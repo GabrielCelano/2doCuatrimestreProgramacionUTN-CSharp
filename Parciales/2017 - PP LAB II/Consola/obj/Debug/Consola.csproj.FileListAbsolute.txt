@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\bin\Debug\Consola.exe.config
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\bin\Debug\Consola.exe
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\bin\Debug\Consola.pdb
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\bin\Debug\BibliotecaEntidades.dll
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\bin\Debug\BibliotecaEntidades.pdb
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\obj\Debug\Consola.exe
+C:\Users\WSC30\source\repos\2017 - PP LAB II\Consola\obj\Debug\Consola.pdb

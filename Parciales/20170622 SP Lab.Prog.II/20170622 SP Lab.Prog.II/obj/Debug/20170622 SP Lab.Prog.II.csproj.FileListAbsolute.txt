@@ -1,0 +1,15 @@
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\bin\Debug\20170622 SP Lab.Prog.II.exe.config
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\bin\Debug\20170622 SP Lab.Prog.II.exe
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\bin\Debug\20170622 SP Lab.Prog.II.pdb
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\bin\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\bin\Debug\Interfaces.dll
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\bin\Debug\Entidades.pdb
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\bin\Debug\Interfaces.pdb
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\20170622 SP Lab.Prog.II.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\_20170622_SP_Lab.Prog.II.frmPpal.resources
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\_20170622_SP_Lab.Prog.II.Properties.Resources.resources
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\20170622 SP Lab.Prog.II.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\20170622 SP Lab.Prog.II.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\20170622 SP Lab.Prog.II.csproj.CopyComplete
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\20170622 SP Lab.Prog.II.exe
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\20170622 SP Lab.Prog.II\obj\Debug\20170622 SP Lab.Prog.II.pdb

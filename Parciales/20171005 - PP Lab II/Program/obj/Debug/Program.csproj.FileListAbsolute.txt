@@ -1,0 +1,10 @@
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\bin\Debug\Program.exe.config
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\bin\Debug\Program.exe
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\bin\Debug\Program.pdb
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\bin\Debug\EntidadFinanciera.dll
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\bin\Debug\EntidadFinanciera.pdb
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\obj\Debug\Program.exe
+C:\Users\WSC30\source\repos\20171005 - PP Lab II\Program\obj\Debug\Program.pdb

@@ -1,0 +1,5 @@
+C:\Users\WSC30\source\repos\VistaConsola\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\VistaConsola\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\source\repos\VistaConsola\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\VistaConsola\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\VistaConsola\Entidades\obj\Debug\Entidades.pdb

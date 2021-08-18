@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EntidadFinanciera.Prestamo">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="EntidadFinanciera.Prestamo.PericiocidadDePagos" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Prestamo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="EntidadFinanciera.Prestamo.TipoDePrestamo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Prestamo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQAAAAAEAgAABAIAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Prestamo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadFinanciera.PrestamoPesos">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQAAAAAAECAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>PrestamoPesos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadFinanciera.PrestamoDolar">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAQAAAAAAECAEAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrestamoDolar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadFinanciera.Financiera">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAAAAQAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Financiera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

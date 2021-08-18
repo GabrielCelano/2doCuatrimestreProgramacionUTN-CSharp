@@ -1,0 +1,13 @@
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\bin\Debug\FrmTester.exe.config
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\bin\Debug\FrmTester.exe
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\bin\Debug\FrmTester.pdb
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\bin\Debug\BibliotecaEntidades.dll
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\bin\Debug\BibliotecaEntidades.pdb
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.csprojAssemblyReference.cache
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.Properties.Resources.resources
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.csproj.GenerateResource.cache
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.csproj.CopyComplete
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.exe
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.pdb
+C:\Users\WSC30\source\repos\PracticaParcial1\FrmTester\obj\Debug\FrmTester.FrmTester.resources

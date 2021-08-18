@@ -1,0 +1,6 @@
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\BibliotecaEntidades\bin\Debug\BibliotecaEntidades.dll
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\BibliotecaEntidades\bin\Debug\BibliotecaEntidades.pdb
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.csprojAssemblyReference.cache
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.dll
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\BibliotecaEntidades\obj\Debug\BibliotecaEntidades.pdb

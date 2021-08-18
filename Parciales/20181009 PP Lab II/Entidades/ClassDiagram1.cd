@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Vehiculo">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAIAEAAAAAAAAAgAAAAAAAAAAAgAAAiI=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Moto">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAgAgAAAAAAgAAAQAAgAAAAAAAAAA=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.PickUp">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAgAAAAAAAAgAAAAAAgAAAAAAIAAA=</HashCode>
+      <FileName>PickUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Automovil">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAgAAAAAAAAgAAAACAgAAAAAAAAAA=</HashCode>
+      <FileName>Automovil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Estacionamiento">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAQAUAAAAABAABAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Estacionamiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

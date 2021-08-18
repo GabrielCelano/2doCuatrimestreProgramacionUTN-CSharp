@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BibliotecaEntidades.Publicacion">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAQCEAAEAAAAAgAAAAICAAAAAABAAAAA=</HashCode>
+      <FileName>Publicacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaEntidades.Comic">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Comic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaEntidades.Biografia">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAACAAAAAABAAAAA=</HashCode>
+      <FileName>Biografia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaEntidades.Vendedor">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAACAQAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

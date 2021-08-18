@@ -1,0 +1,9 @@
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\bin\Debug\Interfaces.dll
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\bin\Debug\Interfaces.pdb
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\source\repos\20170622 SP Lab.Prog.II\Entidades\obj\Debug\Entidades.pdb

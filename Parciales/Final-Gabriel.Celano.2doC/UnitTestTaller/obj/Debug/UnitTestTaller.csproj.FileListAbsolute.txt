@@ -1,0 +1,24 @@
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\UnitTestTaller\obj\Debug\UnitTestTaller.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\UnitTestTaller\obj\Debug\UnitTestTaller.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\obj\Debug\UnitTestTaller.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\obj\Debug\UnitTestTaller.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\UnitTestTaller.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\UnitTestTaller.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\TallerMecanicoUI.exe
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\TallerMecanicoUI.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\TallerMecanicoUI.exe.config
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\obj\Debug\UnitTestTaller.csproj.CopyComplete
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\obj\Debug\UnitTestTaller.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\UnitTestTaller\obj\Debug\UnitTestTaller.pdb

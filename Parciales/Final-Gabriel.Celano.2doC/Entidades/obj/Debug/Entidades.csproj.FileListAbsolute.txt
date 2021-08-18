@@ -1,0 +1,18 @@
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Final - 20210508 - Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\Final-Gabriel.Celano.2doC\Entidades\obj\Debug\Entidades.pdb

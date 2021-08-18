@@ -1,0 +1,18 @@
+C:\Users\WSC30\Desktop\PrimerParcialLab\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\PrimerParcialLab\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\PrimerParcialLab\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\WSC30\Desktop\PrimerParcialLab\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\PrimerParcialLab\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\PrimerParcialLab\Entidades\obj\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\PPLGabrielCelano 2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\PPLGabrielCelano 2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\PPLGabrielCelano 2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\WSC30\Desktop\PPLGabrielCelano 2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\PPLGabrielCelano 2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\PPLGabrielCelano 2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\PPLabPrueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\PPLabPrueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WSC30\Desktop\PPLabPrueba\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\WSC30\Desktop\PPLabPrueba\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\PPLabPrueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\WSC30\Desktop\PPLabPrueba\Entidades\obj\Debug\Entidades.pdb

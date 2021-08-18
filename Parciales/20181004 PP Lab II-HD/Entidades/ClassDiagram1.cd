@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Persona">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAQAAACEAAAAgAAAAAAAAgAAIAIAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Jugador">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAVAAAABAAAAAAAAAAAAAAAAYAQAAAAEAAA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.DirectorTecnico">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>DirectorTecnico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Equipo">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAACAQAQAgAAAAAAAAAABAAAAAQAABiA=</HashCode>
+      <FileName>Equipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.Posicion">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAgAAAAAABAAEAAAAAAAA=</HashCode>
+      <FileName>Posicion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

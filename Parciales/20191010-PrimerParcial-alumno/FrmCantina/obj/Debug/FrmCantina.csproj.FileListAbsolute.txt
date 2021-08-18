@@ -1,0 +1,15 @@
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe.config
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.pdb
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\BibliotecaEntidades.dll
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.dll
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\BibliotecaEntidades.pdb
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.pdb
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.Form1.resources
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.exe
+C:\Users\WSC30\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.pdb
